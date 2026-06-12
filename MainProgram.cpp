@@ -127,5 +127,6 @@ int main() {
    std::cout << "=== C++ Templates Lab ===\n";
    // You may add your own test calls here to experiment.
    std::cout << "maxValue(3, 7) = " << maxValue(3, 7) << "\n";
+   
    return 0;
 }
